@@ -1,0 +1,13 @@
+.input-labels{
+    width: 75%;
+    height:50%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .modal-btn-pos{
+    padding-bottom: 15px;
+    padding-top: 10px;
+  }
+  .hoover-btn:hover{
+    color: #5ec2c6 !important;
+  }

@@ -1,0 +1,24 @@
+
+.trailers {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+	font-size: 22px;
+	background-color: goldenrod;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h4{
+	text-align: center;
+	display: block;
+	width: 500px;
+	height: 500px;
+}
+
+
